@@ -1,1 +1,1 @@
-worker: python Eyad2.py
+worker: python main.py
